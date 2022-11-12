@@ -1,6 +1,5 @@
-##########thelinuxuxer-choice#################
-#############subodha prabash ##########
-###########pwn checker passwords######
+##########haveibeenpwnt############
+##########password breach checker#########
 
 # arguments
 import sys
